@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!--
 const yirlon = {
-  pronouns:  'he'|'him,
-  code: ['Python', 'Javascript', 'HTML', 'CSS', 'SQL'],
-  tools:['Django', 'Angular', 'Potsman']
+  pronouns: "he"|"him",
+  code: ["Python", "Javascript", "HTML", "CSS", "SQL"],
+  tools:["Django", "Angular", "Potsman"]
 }
 
 
