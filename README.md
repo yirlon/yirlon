@@ -5,6 +5,7 @@ const yirlon = {
   pronouns: "he"|"him",
   code: ["Python", "Javascript", "HTML", "CSS", "SQL"],
   tools: ["Django", "Angular", "Potsman"]
+  otherSkills: {"data_science": {algorithms:["Linear regression", "Decision Trees", "K-Means Clustering", "Logistic regression"]}}
 }
 ```
 
