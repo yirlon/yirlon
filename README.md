@@ -9,9 +9,10 @@ const yirlon = {
 }
 ```
 
-```js
-https://github-readme-stats.vercel.app/api?username=yirlon
-```
+
+
+[![yirlon's github stats](https://github-readme-stats.vercel.app/api?username=yirlon)](https://github.com/anuraghazra-readme-stats)
+
 
 
 
