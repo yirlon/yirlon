@@ -9,7 +9,9 @@ const yirlon = {
 }
 ```
 
+```js
 https://github-readme-stats.vercel.app/api?username=yirlon
+```
 
 
 
