@@ -1,7 +1,15 @@
 ### Hi, I'm Yuliet. 👋
 
 
-<h1 align="center">Hi 👋, I'm Yirlon Peña Ladrón de Guevara</h1>
+```js
+const yirlon = {
+  pronouns: "he"|"him",
+  code: ["Python", "Javascript", "HTML", "CSS", "SQL"],
+  tools: ["Django", "Angular", "Potsman"],
+  otherSkills: {"data_science": {algorithms:["Linear regression", "Decision Trees", "K-Means Clustering", "Logistic regression"]}}
+}
+```
+
 <h3 align="center">I am 26 years old, I am a computer engineer, full stack developer passionate about the world of technology.</h3>
 
 - 🔭 I’m currently working on **Edificaciones Web**
