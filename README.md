@@ -10,7 +10,6 @@ const yirlon = {
 ```
 
 
-- 🔭 I’m currently working on **Edificaciones Web**
 
 - 🌱 I’m currently learning **Node, React**
 
