@@ -15,7 +15,8 @@ const yirlon = {
 
 - 🔭 I’m currently working on **Edificaciones Web**
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I’m currently learning **Node
+- **
 
 - 💬 Ask me about **python, javascript, django,data science, css**
 
