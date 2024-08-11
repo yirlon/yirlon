@@ -13,7 +13,7 @@ const yirlon = {
 <h1 align="center">Hi 👋, I'm Yirlon Peña Ladrón de Guevara</h1>
 <h3 align="center">I am 26 years old, I am a computer engineer, full stack developer passionate about the world of technology.</h3>
 
-- 🔭 I’m currently working on **Edificaciones Web**
+<!--[- 🔭 I’m currently working on **Datu@**](url)-->
 
 - 🌱 I’m currently learning **Node
 - **
